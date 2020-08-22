@@ -1,0 +1,50 @@
+﻿  复制了 1 个文件
+  复制了 2 个文件
+  复制了 4 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 3 个文件
+  复制了 1 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+  复制了 6 个文件
+  复制了 2 个文件
+  复制了 2 个文件
+libbullet.lib(btAlignedAllocator.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+    正在创建库 E:\cocos2dxProject\snack\proj.win32\Debug.win32\libcocos2d.lib 和对象 E:\cocos2dxProject\snack\proj.win32\Debug.win32\libcocos2d.exp
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+libtiff-2015.lib(tif_aux.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_aux.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_close.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_close.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_codec.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_codec.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_color.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_color.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_compress.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_compress.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_dir.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_dir.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_dirinfo.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_dirinfo.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_dirread.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_dirread.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_dirwrite.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_dirwrite.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_dumpmode.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_dumpmode.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_error.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_error.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_fax3.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_fax3.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_fax3sm.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_fax3sm.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_getimage.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_getimage.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_flush.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_flush.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_luv.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_luv.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_lzw.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_lzw.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_next.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_next.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_open.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_open.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_packbits.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_packbits.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_predict.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_predict.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_read.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_read.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_swab.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_swab.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_strip.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_strip.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_thunder.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_thunder.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_tile.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_tile.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_warning.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_warning.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_write.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_write.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libtiff-2015.lib(tif_win32.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libtiff-2015.lib(tif_win32.obj)”或在“E:\cocos2dxProject\snack\proj.win32\Debug.win32\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  libcocos2d.vcxproj -> E:\cocos2dxProject\snack\proj.win32\Debug.win32\libcocos2d.dll
